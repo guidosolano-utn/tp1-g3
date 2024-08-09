@@ -404,7 +404,7 @@ echo "Duración del QuickSort: " . number_format($durationMilliseconds, 4) . " m
 ?>
 #####################  Quicksort ########################################
 ```
-**Output: Duración del QuickSort: 69.5720 milisegundos con un arreglo de 100000 elementos**
+`Output: Duración del QuickSort: 69.5720 milisegundos con un arreglo de 100000 elementos`
 
 
 *MergeSort*:  Divide el arreglo en mitades hasta llegar a listas simples y luego fusiona estas listas ordenadamente.
@@ -452,7 +452,7 @@ echo "Duración del MergeSort: " . number_format($durationMilliseconds, 4) . " m
 ?> 
 #####################  MergeSort ########################################
 ```
-**Output: Duración del MergeSort: 158.8380 milisegundos con un arreglo de 100000 elementos**
+`Output: Duración del MergeSort: 158.8380 milisegundos con un arreglo de 100000 elementos`
 
 
 *Burbuja*: Compara e intercambia elementos adyacentes repetidamente hasta que el arreglo esté ordenado
@@ -487,4 +487,4 @@ echo "Duración del Bubble Sort: " . number_format($durationMilliseconds, 4) . "
 
 #####################  Burbuja ########################################
 ```
-**Output: Duración del Bubble Sort: 0.2952 milisegundos con un arreglo de 100 elementos**
+`Output: Duración del Bubble Sort: 0.2952 milisegundos con un arreglo de 100 elementos`
